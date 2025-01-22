@@ -833,7 +833,7 @@
 		"compilationTarget": {
 			"contracts/MyToken.sol": "MyToken"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
